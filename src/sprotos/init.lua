@@ -1,0 +1,5 @@
+GameProtos = {}
+
+require("protos.Addressbook")
+
+
